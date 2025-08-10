@@ -1,0 +1,21 @@
+After copy all files in your folder
+make sure your all file in one file okay.
+
+Now you can unzip all file by right click on main file that's type is WinRAR ZIP file 
+and click on extract here
+
+Then click on extrated file that is .exe or application, it's run
+
+( Optionally ) but cool and Automatically
+
+1. click windows+r 
+2. type this command shell:startup and click ok
+3. now create a shorcute of your  extracted file that is .exe or application
+4. And copy this shortcute and paste into your startup program that is open trough second step.
+5. it done , now whenever you shart your pc it should be start auto 
+
+You can close the program with
+1. open tsak mannager 
+2. In background see this pragram that is name  battry_ moniter.
+3. right click and end task
+
